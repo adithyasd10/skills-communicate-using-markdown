@@ -14,9 +14,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 
-
-
-
+- [x] Create headlines
+- [x] Insert image
+- [x] Add block codes
+- [ ] task list
 
 
 
